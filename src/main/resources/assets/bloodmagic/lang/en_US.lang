@@ -7,6 +7,8 @@ item.bloodmagic.activation_crystal.weak.name=Weak Activation Crystal
 item.bloodmagic.activation_crystal.awakened.name=Awakened Activation Crystal
 item.bloodmagic.activation_crystal.creative.name=Creative Activation Crystal
 
+item.bloodmagic.alchemic_vial.base.name=Alchemic Vial
+
 item.bloodmagic.sacrificial_dagger.normal.name=Sacrificial Dagger
 item.bloodmagic.sacrificial_dagger.creative.name=Creative Sacrificial Dagger
 item.bloodmagic.pack.selfSacrifice.name=Blood Letter's Pack
